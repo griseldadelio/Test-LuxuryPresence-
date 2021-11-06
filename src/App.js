@@ -1,22 +1,20 @@
-import React from 'react'
+import React from 'react';
+import { BrowserRouter, Route, Switch } from "react-router-dom";
+import { Home } from './screen'
 import './App.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import "aos/dist/aos.css";
 
-import {
-  BrowserRouter,
-  Switch,
-  Route,
-} from "react-router-dom";
 
 const App = () => {
   return (
     <BrowserRouter>
       <Switch>
-        <Route path="/services" component={Services} />
-        <Route path="/contact" component={Contact} />
-        <Route path="/about" component={About} />
-        <Route path="/" component={Home} />
-      </Switch>
-    </BrowserRouter>
+        <Route path='/'>
+          <Home />
+        </Route>
+      </Switch >
+    </BrowserRouter >
   );
 }
 

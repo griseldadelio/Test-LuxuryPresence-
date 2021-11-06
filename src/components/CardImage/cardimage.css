@@ -1,0 +1,24 @@
+.imgcard{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc8Kw_3bn6QBOMjTnCHdoLjWMSlS5MZ8QMlQ&usqp=CAU");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.imgcard1{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjLYiOBX2XiW-V4ailehzu10QW7Jt7J1_MVA&usqp=CAU");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.imgcard2{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV6Kc9-TGcJZq_4mNRO9PxHK0sG8-gCYGhwg&usqp=CAU");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.imgcard3{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSde-Q2xP9hOorEfFkRx2A9RHoG2tWZ8eCsgQ&usqp=CAU");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
