@@ -1,7 +1,6 @@
 import React from 'react';
 import { BrowserRouter, Route, Switch } from "react-router-dom";
 import { Home } from './screen'
-import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import "aos/dist/aos.css";
 
